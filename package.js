@@ -1,7 +1,7 @@
 Package.describe({
   "summary": "JQuery InputMask for Meteor",
   "version": "3.3.3",
-  "git": "https://github.com/BigDSK/meteor-inputmask.git",
+  "git": "https://github.com/martindan/meteor-inputmask.git",
   "name": "martindan:inputmask"
 });
 
